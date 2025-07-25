@@ -33,9 +33,3 @@ All data processing is performed locally to ensure the security of your medical 
 
 ### Contact Us
 For privacy-related questions, please contact the developer.
-
----
-
-**最后更新 / Last Updated:** 2024年1月
-
-**生效日期 / Effective Date:** 2024年1月
