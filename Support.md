@@ -23,3 +23,9 @@ Surgeon is a 3D medical imaging tool designed for medical education and academic
 - All operations use natural gesture interactions for an immersive experience.  
 
 **Important Disclaimer: This app is for medical education and academic research only, and must not be used for clinical diagnosis, treatment, or any medical decision-making.**
+
+---
+
+**隐私协议 / Privacy Policy:**
+
+[点击查看隐私协议 / Click to view Privacy Policy](PrivacyPolicy.md)
